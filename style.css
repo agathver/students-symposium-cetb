@@ -3,7 +3,19 @@
 }
 
 main {
-    padding: 3em 0; 
+    margin-top: 3em;
+    padding-bottom: 3em; 
+}
+
+.hero-image {
+    background: #131641;
+}
+
+.hero-image > img {
+    display: block;
+    margin: auto;
+    width:100%;
+    max-width: 1920px;
 }
 
 section {
