@@ -6,8 +6,8 @@ main {
     padding: 3em 0; 
 }
 
-.section {
-    padding: 2em 0;
+section {
+    padding-top: 2em;
 }
 
 .grid {
