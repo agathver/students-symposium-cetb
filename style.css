@@ -1,0 +1,36 @@
+.topic-list {
+    columns: 3;
+}
+
+main {
+    padding: 3em 0; 
+}
+
+.section {
+    padding: 2em 0;
+}
+
+.grid {
+    margin: auto;
+    padding: 1rem;
+}
+
+.block-title {
+    background-color: var(--primary);
+    color: var(--light);
+    font-size: 1.25em;
+    padding: 0.25em;
+    text-align: center;
+}
+
+.block-content {
+    padding: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    background-color: #f0f0f0;
+    padding: 1em;
+}
