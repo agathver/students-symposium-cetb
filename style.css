@@ -10,11 +10,6 @@ section {
     padding-top: 2em;
 }
 
-.grid {
-    margin: auto;
-    padding: 1rem;
-}
-
 .block-title {
     background-color: var(--primary);
     color: var(--light);
