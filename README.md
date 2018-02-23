@@ -1,12 +1,12 @@
-# Student's Technical Symposium, CET BBSR
+# ISTE Technical Symposium, CET BBSR
 
-http://students-symposium.cetb.in
+http://iste-symposium.cetb.in
 
 Source code for the website
 
 ## Deploying
 
-Sync changes with s3://students-symposium.cetb.in
+Sync changes with s3://iste-symposium.cetb.in
 
 Please configure AWS CLI before running the script
 
