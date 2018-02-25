@@ -18,6 +18,11 @@ main {
     max-width: 1920px;
 }
 
+.container {
+    /* height: 100%;
+    position: relative; */
+}
+
 section {
     padding-top: 2em;
 }
